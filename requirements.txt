@@ -1,0 +1,11 @@
+Flask~=3.1
+Flask-SQLAlchemy~=3.1
+SQLAlchemy>=2.0.30,<2.2
+Flask-Migrate~=4.1
+Flask-JWT-Extended~=4.7
+Flask-Cors~=6.0
+cloudinary~=1.47
+python-dotenv~=1.1
+psycopg2-binary~=2.9
+requests~=2.32
+gunicorn>=23.0
